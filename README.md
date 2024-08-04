@@ -31,7 +31,7 @@ Assumptions based on NOAA input data:
 
 NOAA weather data files
 
-ftp://ftp.ncdc.noaa.gov/pub/data/asos-fivemin/6401-2006
+https://www.ncei.noaa.gov/pub/data/asos-fivemin/6401-2006/
 
 Solar panel performance data
 
