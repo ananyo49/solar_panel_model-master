@@ -1,5 +1,5 @@
 # NOAA weather data files hosted on ftp://ftp.ncdc.noaa.gov/pub/data/asos-fivemin/6401-2006/
-# Extract the following features of interest: temperature, visibility, humidity
+# Extract the following features of interest: temperature, visibility and humidity
 
 def extract_temperature(row):
     pieces = row.split()
